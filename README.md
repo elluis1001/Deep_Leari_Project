@@ -1,4 +1,4 @@
-# Deep_Leari_Project
+# Deep_Learn_Project
 
 
 # AlphabetSoupCharity Optimized Model
